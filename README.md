@@ -14,5 +14,13 @@ train_model.py: Script to train the emotion classification model.
 predict_emotion.py: Script for real-time emotion prediction based on user input.
 requirements.txt: List of Python packages required for the project.
 
+# Usage
+## Training the Model:
+
+Run the train_model.py script to train the emotion classification model.
+
+## Real-time Prediction:
+After training, run the predict_emotion.py script to interactively predict emotions based on user input.
+
 ## Results
 The trained model achieves good accuracy on the test set, as shown in the printed classification report.
