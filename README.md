@@ -11,8 +11,7 @@ six categories: sadness (0), joy (1), love (2), anger (3), fear (4), and surpris
 
 text.csv: Dataset containing text samples and corresponding emotion labels.
 train_model.py: Script to train the emotion classification model.
-predict_emotion.py: Script for real-time emotion prediction based on user input.
-requirements.txt: List of Python packages required for the project.
+
 
 # Usage
 ## Training the Model:
